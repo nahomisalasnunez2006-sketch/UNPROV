@@ -1,0 +1,13 @@
+Pon aqui las fotos de los productos de ejemplo con estos nombres:
+
+arroz.jpg       -> Arroz super extra 25 kg
+detergente.jpg  -> Detergente liquido 20 L
+cloro.jpg       -> Cloro concentrado 10 L
+cables.jpg      -> Cable USB-C (paquete 10)
+frijol.jpg      -> Frijol negro 10 kg
+aceite.jpg      -> Aceite vegetal 20 L
+papel.jpg       -> Papel higienico 48 rollos
+audifonos.jpg   -> Audifonos Bluetooth (5 pzas)
+
+Despues quita las // de cada linea en src/data/imagenesEjemplo.ts
+Recomendado: imagenes cuadradas de unos 600 x 600 px y menos de 300 KB cada una
