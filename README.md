@@ -7,15 +7,6 @@ Marketplace donde varias tiendas proveedoras publican sus productos y los client
 
 ## Instalar
 - **APK (Android):** https://expo.dev/artifacts/eas/S6E2Eb8cVZm5FmltjQAsWNvIkMBpE_p_ePILMr8TvQM.apk
-- **Con Expo Go:**
-  ```
-  npm install
-  npx expo start
-  ```
-
 ## Datos de prueba
 - Tarjeta: 4242 4242 4242 4242 · cualquier fecha futura · CVV 123
 - CLABE: 002180700112233446
-
-## Tecnologías
-React Native · Expo SDK 58 · Expo Router · TypeScript
